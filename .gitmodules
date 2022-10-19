@@ -1,0 +1,3 @@
+[submodule "pymi-cookiecutter"]
+	path = pymi-cookiecutter
+	url = https://github.com/baggiponte/pymi-cookiecutter

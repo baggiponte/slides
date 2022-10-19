@@ -15,7 +15,7 @@ Collection of slides of the talks I held.
 
 ## Slideshows
 
-* [`pymi-cookiecutter`](./pymi-cookiecutter): [`cookiecutter`](https://www.cookiecutter.io/) tutorial held at [Python Milano](http://milano.python.it/) ([event link](https://www.eventbrite.com/e/double-feature-decoratori-cookiecutter-tickets-433530370007?aff=ebdsoporgprofile))
+* [`pymi-cookiecutter`](https://github.com/baggiponte/pymi-cookiecutter/): [`cookiecutter`](https://www.cookiecutter.io/) tutorial held at [Python Milano](http://milano.python.it/) ([event link](https://www.eventbrite.com/e/double-feature-decoratori-cookiecutter-tickets-433530370007?aff=ebdsoporgprofile))
 
 ## Credits
 

@@ -7,6 +7,9 @@ Collection of slides of the talks I held.
 ```bash
 .
 ├── pymi-cookiecutter
+├── .gitignore
+├── .gitmodules
+├── .pre-commit-config.yaml
 └── README.md
 ```
 
